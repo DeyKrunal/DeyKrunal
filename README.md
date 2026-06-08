@@ -92,13 +92,3 @@ I don’t just write code — I design systems.
 
 > “Don’t just build projects. Build systems that can survive real-world pressure.”
 
----
-
-If you want next level upgrade, I can:
-
-* Add **GitHub stats + streak + badges**
-* Make it **visually premium (with animations, icons, shields)**
-* Customize it for **job-ready / recruiter-focused branding**
-* Or tailor it specifically for **backend roles / companies**
-
-Just tell me 👍
