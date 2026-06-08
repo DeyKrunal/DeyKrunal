@@ -29,7 +29,7 @@ I don’t just write code — I design systems.
 ### 🚀 Backend
 
 * Node.js
-* PHP (Laravel)
+* PHP 
 * REST API Development
 * Authentication & Authorization
 
