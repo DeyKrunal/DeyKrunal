@@ -1,9 +1,3 @@
-Got it — you want a **clean, professional GitHub README “About Me”** that actually reflects your journey, skills, and ambition (not generic fluff). I’ll make it **industry-level + personal brand focused**, since you’re aiming high as a backend developer.
-
-You can copy-paste this directly into your `README.md` 👇
-
----
-
 # 👋 Hi, I'm Krunal
 
 🚀 Backend Developer | Problem Solver | System Builder
